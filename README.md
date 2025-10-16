@@ -1,7 +1,4 @@
 
-  # Medicine Timetable Web App
-
-  This is a code bundle for Medicine Timetable Web App. The original project is available at https://www.figma.com/design/SxTHNELwBJJaSl9RB44RO2/Medicine-Timetable-Web-App.
 
   ## Running the code
 
